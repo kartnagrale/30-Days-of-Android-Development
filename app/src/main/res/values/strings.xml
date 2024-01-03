@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">The 30 Days of Android Development</string>
+    <string name="day1">Day 1: Introduction to Android Compose</string>
+    <string name="day2">Day 2: Setting up your Android Compose project</string>
+    <string name="day3">Day 3: Compose UI Basics - Components and Layouts</string>
+    <string name="day4">Day 4: State Management in Compose</string>
+    <string name="day5">Day 5: Working with Navigation in Compose</string>
+    <string name="day6">Day 6: Text and Typography in Compose</string>
+    <string name="day7">Day 7: Buttons and Clickable Components</string>
+    <string name="day8">Day 8: Images and Image Loading in Compose</string>
+    <string name="day9">Day 9: Lists and RecyclerView in Compose</string>
+    <string name="day10">Day 10: Handling Forms and Input in Compose</string>
+    <string name="day11">Day 11: Animations in Compose</string>
+    <string name="day12">Day 12: Themed UI and Dark Mode Support</string>
+    <string name="day13">Day 13: Custom Views and Drawing in Compose</string>
+    <string name="day14">Day 14: Accessibility in Compose</string>
+    <string name="day15">Day 15: Testing in Compose - Unit and UI Tests</string>
+    <string name="day16">Day 16: Working with Databases in Compose</string>
+    <string name="day17">Day 17: Network Requests and API Integration</string>
+    <string name="day18">Day 18: Compose and Jetpack Libraries Integration</string>
+    <string name="day19">Day 19: Compose for Wearables and Large Screens</string>
+    <string name="day20">Day 20: Handling Background Tasks in Compose</string>
+    <string name="day21">Day 21: Performance Optimization in Compose</string>
+    <string name="day22">Day 22: Memory Management and Leaks</string>
+    <string name="day23">Day 23: Code Organization and Architecture</string>
+    <string name="day24">Day 24: Localization and Internationalization in Compose</string>
+    <string name="day25">Day 25: Continuous Integration and Deployment</string>
+    <string name="day26">Day 26: Building a To-Do App with Compose</string>
+    <string name="day27">Day 27: Implementing Authentication in Compose</string>
+    <string name="day28">Day 28: Integrating Maps and Location Services</string>
+    <string name="day29">Day 29: Implementing Notifications in Compose</string>
+    <string name="day30">Day 30: Final Project and Recap</string>
+</resources>
